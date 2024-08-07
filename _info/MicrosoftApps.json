@@ -600,6 +600,12 @@
     "Source": "Graph"
   },
   {
+    "AppId": "9e4a5442-a5c9-4f6f-b03f-5b9fcaaf24b1",
+    "AppDisplayName": "OfficeServicesManager",
+    "AppOwnerOrganizationId": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
+    "Source": "Graph"
+  },
+  {
     "AppId": "7a274595-3618-4e6f-b54e-05bb353e0153",
     "AppDisplayName": "Teams NRT DLP Service",
     "AppOwnerOrganizationId": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
