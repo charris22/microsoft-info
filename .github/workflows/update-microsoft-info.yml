@@ -30,8 +30,8 @@ jobs:
       - name: Azure AD Workload Identity Federation
         uses: nicolonsky/WIF@v0.0.1
         with:
-          tenant_id: '536279f6-15cc-45f2-be2d-61e352b51eef'
-          client_id: 'ec362660-6ffa-47f6-b2b0-cbb43064e3f7'
+          tenant_id: '0394af78-c98a-4bae-9d43-90f95f701b2a'
+          client_id: '8d67c227-c104-472c-99a4-26833c61aa08'
           
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
@@ -51,8 +51,8 @@ jobs:
           if [[ `git status --porcelain` ]]; then
             # Changes
             echo "Updating repo"
-            git config --global user.name 'Merill Fernando'
-            git config --global user.email 'merill@users.noreply.github.com'
+            git config --global user.name 'Chris Harris'
+            git config --global user.email 'charris22@users.noreply.github.com'
             git commit -am "Daily automation"
             git push
           else
