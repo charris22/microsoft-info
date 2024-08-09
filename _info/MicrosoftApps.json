@@ -462,6 +462,12 @@
     "Source": "Graph"
   },
   {
+    "AppId": "de247707-4e4a-47d6-89fd-3c632f870b34",
+    "AppDisplayName": "CloudLicensingSystem",
+    "AppOwnerOrganizationId": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
+    "Source": "Graph"
+  },
+  {
     "AppId": "75513c96-801d-4559-830a-6754de13dd19",
     "AppDisplayName": "M365 Label Analytics",
     "AppOwnerOrganizationId": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
@@ -878,6 +884,12 @@
   {
     "AppId": "8bbf8725-b3ca-4468-a217-7c8da873186e",
     "AppDisplayName": "DeploymentScheduler",
+    "AppOwnerOrganizationId": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
+    "Source": "Graph"
+  },
+  {
+    "AppId": "cb4dc29f-0bf4-402a-8b30-7511498ed654",
+    "AppDisplayName": "Power BI Premium",
     "AppOwnerOrganizationId": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
     "Source": "Graph"
   },
