@@ -15,6 +15,7 @@
 "1762e607-063e-431a-a25a-f0f782acb73b","Virtual Connector Provider","f8cdef31-a31e-4b4a-93e4-5f571e91255a","Graph"
 "66c23536-2118-49d3-bc66-54730b057680","Skype Core Calling Service","f8cdef31-a31e-4b4a-93e4-5f571e91255a","Graph"
 "9cb77803-d937-493e-9a3b-4b49de3f5a74","Microsoft Intune Service Discovery","f8cdef31-a31e-4b4a-93e4-5f571e91255a","Graph"
+"f8f7a2aa-e116-4ba6-8aea-ca162cfa310d","Microsoft Graph Connectors Core","f8cdef31-a31e-4b4a-93e4-5f571e91255a","Graph"
 "fbb0ac1a-82dd-478b-a0e5-0b2b98ef38fe","Substrate-FileWatcher","f8cdef31-a31e-4b4a-93e4-5f571e91255a","Graph"
 "00000001-0000-0000-c000-000000000000","Azure ESTS Service","f8cdef31-a31e-4b4a-93e4-5f571e91255a","Graph"
 "8ee8fdad-f234-4243-8f3b-15c294843740","Microsoft Threat Protection","f8cdef31-a31e-4b4a-93e4-5f571e91255a","Graph"
