@@ -468,6 +468,12 @@
     "Source": "Graph"
   },
   {
+    "AppId": "789e8929-0390-42a2-8934-0f9dafb8ec89",
+    "AppDisplayName": "Exchange Rbac",
+    "AppOwnerOrganizationId": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
+    "Source": "Graph"
+  },
+  {
     "AppId": "de247707-4e4a-47d6-89fd-3c632f870b34",
     "AppDisplayName": "CloudLicensingSystem",
     "AppOwnerOrganizationId": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
@@ -608,6 +614,12 @@
   {
     "AppId": "63e61dc2-f593-4a6f-92b9-92e4d2c03d4f",
     "AppDisplayName": "Microsoft Intune SCCM Connector",
+    "AppOwnerOrganizationId": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
+    "Source": "Graph"
+  },
+  {
+    "AppId": "dc457883-bafe-4f8b-a333-29685e7eaa9e",
+    "AppDisplayName": "PPE-DataResidencyService",
     "AppOwnerOrganizationId": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
     "Source": "Graph"
   },
