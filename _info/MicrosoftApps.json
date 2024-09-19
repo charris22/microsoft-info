@@ -18,6 +18,12 @@
     "Source": "Graph"
   },
   {
+    "AppId": "67e3df25-268a-4324-a550-0de1c7f97287",
+    "AppDisplayName": "Office Online Service LEGACY",
+    "AppOwnerOrganizationId": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
+    "Source": "Graph"
+  },
+  {
     "AppId": "794ded15-70c6-4bcd-a0bb-9b7ad530a01a",
     "AppDisplayName": "Microsoft Intune Advanced Threat Protection Integration",
     "AppOwnerOrganizationId": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
@@ -308,6 +314,12 @@
   {
     "AppId": "3138fe80-4087-4b04-80a6-8866c738028a",
     "AppDisplayName": "SharePoint Notification Service",
+    "AppOwnerOrganizationId": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
+    "Source": "Graph"
+  },
+  {
+    "AppId": "c606301c-f764-4e6b-aa45-7caaaea93c9a",
+    "AppDisplayName": "Office Store",
     "AppOwnerOrganizationId": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
     "Source": "Graph"
   },
@@ -1334,12 +1346,6 @@
   {
     "AppId": "d3590ed6-52b3-4102-aeff-aad2292ab01c",
     "AppDisplayName": "Microsoft Office",
-    "AppOwnerOrganizationId": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
-    "Source": "Learn"
-  },
-  {
-    "AppId": "67e3df25-268a-4324-a550-0de1c7f97287",
-    "AppDisplayName": "Microsoft Office Web Apps Service",
     "AppOwnerOrganizationId": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
     "Source": "Learn"
   },
