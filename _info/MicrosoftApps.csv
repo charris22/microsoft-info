@@ -180,6 +180,7 @@
 "82f45fb0-18b4-4d68-8bed-9e44909e3890","Meeting Migration Service","f8cdef31-a31e-4b4a-93e4-5f571e91255a","Graph"
 "cc15fd57-2c6c-4117-a88c-83b1d56b4bbe","Microsoft Teams Services","f8cdef31-a31e-4b4a-93e4-5f571e91255a","Graph"
 "a164aee5-7d0a-46bb-9404-37421d58bdf7","Microsoft Teams AuthSvc","f8cdef31-a31e-4b4a-93e4-5f571e91255a","Graph"
+"5a4a238f-f186-4fff-95bd-d3e70f9e1a08","Privacy Management","f8cdef31-a31e-4b4a-93e4-5f571e91255a","Graph"
 "1b912ec3-a9dd-4c4d-a53e-76aa7adb28d7","AADReporting","f8cdef31-a31e-4b4a-93e4-5f571e91255a","Graph"
 "c2ada927-a9e2-4564-aae2-70775a2fa0af","OCaaS Client Interaction Service","f8cdef31-a31e-4b4a-93e4-5f571e91255a","Graph"
 "6b91db1b-f05b-405a-a0b2-e3f60b28d645","M365 Admin Services","f8cdef31-a31e-4b4a-93e4-5f571e91255a","Graph"
